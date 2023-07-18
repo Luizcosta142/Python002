@@ -1,3 +1,5 @@
 Ainda com o intuito de aprendizado dos principais dunder methods do Python, dessa vez vou implementar uma classe para representar vetores bidimensionais.
 Com base no livro Python Fluente de Luciano Ramalho cap. 1, pag. 34.
 Essa classe irá explorar os métodos __repr__,__abs__,__add__ e __mul__.
+
+Futuramente, no cap. 14 do livro, voltaremos a essa classe para expandi-la em vetores n-dimensionais.
