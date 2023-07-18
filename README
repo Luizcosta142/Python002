@@ -2,4 +2,5 @@ Ainda com o intuito de aprendizado dos principais dunder methods do Python, dess
 Com base no livro Python Fluente de Luciano Ramalho cap. 1, pag. 34.
 Essa classe irá explorar os métodos __repr__,__abs__,__add__ e __mul__.
 
-Futuramente, no cap. 14 do livro, voltaremos a essa classe para expandi-la em vetores n-dimensionais.
+Futuramente, no cap. 13 e 14 do livro, voltarei a essa classe para expandi-la em vetores n-dimensionais, também corrigirei, com o dunder method __rmul__,
+a função de multiplicação que da forma como está aplicada permite que um Vector seja multiplicado por um número, mas não um número por um Vector.
